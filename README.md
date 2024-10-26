@@ -13,3 +13,7 @@ A powerful, user-friendly WYSIWYG (What You See Is What You Get) rich text edito
 - **Cross-Browser Compatibility**: Works seamlessly across all major browsers and devices.
 - **Markdown Support**: Users can switch between WYSIWYG and Markdown modes for flexibility.
 - **Extensible Architecture**: Easily integrate plugins or extend functionality to meet specific needs.
+
+### npm install
+
+### npm run build

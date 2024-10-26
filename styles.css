@@ -1,0 +1,19 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.toolbar {
+    margin-bottom: 10px;
+}
+
+.toolbar button {
+    margin-right: 5px;
+    padding: 10px;
+}
+
+.editor {
+    border: 1px solid #ccc;
+    min-height: 300px;
+    padding: 10px;
+}
